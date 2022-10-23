@@ -1,3 +1,10 @@
+---
+title: 标签 
+layout: page 
+type: tags 
+tag: Jekyll
+---
+
 # jekyll发布文章不显示
 
 昨天尝试更改博客布局，修改顶部栏目，添加文件后发现没有效果
