@@ -1,6 +1,6 @@
 ---
 title: 2021-11-13-welcome-to-jekyll.markdown
-layout: page 
+layout: post
 tag: 
 - Jekyll
 ---
