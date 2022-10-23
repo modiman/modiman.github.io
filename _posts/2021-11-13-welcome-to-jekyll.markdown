@@ -1,8 +1,9 @@
 ---
-title: 标签 
+title: Jekyll
 layout: page 
 type: tags 
-tag: Jekyll
+tag: 
+- Jekyll
 ---
 
 # jekyll发布文章不显示
