@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Home of Knoledge and Idea
 subtitle:
 description:
-author: John Doe
+author: Modige
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -42,6 +42,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 highlighter: rouge
 highlight:
   line_number: true
+highlight_theme: normal
 
 #### Markdown Processors
 ## 'redcarpet' is unsupported on GitHub Pages now.
