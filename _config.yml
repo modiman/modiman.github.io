@@ -42,7 +42,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 highlighter: rouge
 highlight:
   line_number: true
-highlight_theme: normal
+highlight_theme: night
 
 #### Markdown Processors
 ## 'redcarpet' is unsupported on GitHub Pages now.
